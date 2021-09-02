@@ -19,4 +19,10 @@ Interests on AI, data science, computer vision, machine learning and related fie
 
 ---
 
+### here are some of the projects I have worked with
+
+Coming soon...
+
+---
+
 Thanks for passing by.
