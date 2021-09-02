@@ -4,7 +4,7 @@
 
 Currently working as a data scientist.
 
-Interests on AI, data science, machine learning and related fields.
+Interests on AI, data science, computer vision, machine learning and related fields.
 
 ---
 
