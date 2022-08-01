@@ -2,7 +2,7 @@
 
 ## Here is a brief introduction about myself.
 
-Currently working as a data scientist for more than three years
+Currently working as a data scientist for more than three years.
 
 Interests on AI, data science, computer vision, machine learning and related fields.
 
