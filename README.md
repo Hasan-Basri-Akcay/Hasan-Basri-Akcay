@@ -6,6 +6,8 @@ Currently working as a data scientist.
 
 Interests on AI, data science, computer vision, machine learning and related fields.
 
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/hasanbasriakcay/notebook)
+
 ---
 
 📫 How to reach me
