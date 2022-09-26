@@ -29,6 +29,24 @@ Interests on AI, data science, computer vision, machine learning and related fie
 
 Coming soon...
 
+#### Healtcare
+*
+
+#### Finance
+*
+
+#### Transportation
+*
+
+#### Agriculture
+*
+
+#### Marketing
+*
+
+#### Transcription
+*
+
 ---
 
 Thanks for passing by.
