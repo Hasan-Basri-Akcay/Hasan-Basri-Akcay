@@ -25,7 +25,10 @@ Interests on AI, data science, computer vision, machine learning and related fie
 
 ---
 
-### here are some of the projects I have worked with
+### These are some articles I have written 📝
+* [10 Notebooks That Made Me a Kaggle Master](https://medium.datadriveninvestor.com/10-notebooks-that-made-me-a-kaggle-master-8f3b33f929a0)
+
+### Here are some of the projects I have worked with
 
 Coming soon...
 
