@@ -25,7 +25,7 @@ Interests on AI, data science, computer vision, machine learning and related fie
 
 ---
 
-### These are some articles I have written 📝
+### These are some articles I have written on the Medium 📝
 * [10 Notebooks That Made Me a Kaggle Master](https://medium.datadriveninvestor.com/10-notebooks-that-made-me-a-kaggle-master-8f3b33f929a0)
 * [How to Build End-to-End Custom Machine Learning Pipeline?](https://medium.com/databulls/how-to-build-end-to-end-custom-machine-learning-pipeline-773f1bacfdc3)
 * [BirdCLEF 2022, My Most Voted Golden Medal Kaggle Notebook 🥇, Noise Reduction](https://medium.datadriveninvestor.com/birdclef-2022-my-most-voted-golden-medal-kaggle-notebook-noise-reduction-1bb96c755a14)
