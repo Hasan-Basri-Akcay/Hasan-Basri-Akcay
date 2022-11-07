@@ -27,6 +27,12 @@ Interests on AI, data science, computer vision, machine learning and related fie
 
 ### These are some articles I have written 📝
 * [10 Notebooks That Made Me a Kaggle Master](https://medium.datadriveninvestor.com/10-notebooks-that-made-me-a-kaggle-master-8f3b33f929a0)
+* [How to Build End-to-End Custom Machine Learning Pipeline?](https://medium.com/databulls/how-to-build-end-to-end-custom-machine-learning-pipeline-773f1bacfdc3)
+* [BirdCLEF 2022, My Most Voted Golden Medal Kaggle Notebook 🥇, Noise Reduction](https://medium.datadriveninvestor.com/birdclef-2022-my-most-voted-golden-medal-kaggle-notebook-noise-reduction-1bb96c755a14)
+* [TPS-Mar21, Leaderboard %14, XGB, CatBoost, LGBM + Optuna 🚀](https://medium.com/databulls/tps-mar21-leaderboard-14-xgb-catboost-lgbm-optuna-cdffb5124368)
+* [E-Commerce Forecasting Fbprophet + Optuna](https://medium.com/databulls/e-commerce-forecasting-fbprophet-optuna-6e9a83d89079)
+* [What Are The Differences Between Data Scientists That Earn 500💲 And 225.000💲 Yearly?](https://medium.com/databulls/what-are-the-differences-between-data-scientists-that-earn-500-and-225-000-yearly-ea60ccdf03d7)
+* [Welcome, 2022🎉. What Has Changed in Data Science in 2021?](https://medium.com/databulls/welcome-2022-what-has-changed-in-data-science-in-2021-dac24bd37929)
 
 ### Here are some of the projects I have worked with
 
