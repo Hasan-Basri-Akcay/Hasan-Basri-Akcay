@@ -37,7 +37,8 @@ Interests on AI, data science, computer vision, machine learning and related fie
 ### Here are some of the projects I have worked with
 
 * 📈 Time-series
-
+  
+  - [🔊 BirdCLEF22 - EDA + Noise Reduction 🐦](https://www.kaggle.com/code/hasanbasriakcay/birdclef22-eda-noise-reduction) [131 Votes]🥇
   - [📈 E-Commerce 💲 Forecasting Fbprophet + Optuna 💰](https://www.kaggle.com/code/hasanbasriakcay/e-commerce-forecasting-fbprophet-optuna) [93 Votes]🥇
   - [🏆TPSApr22 - FE + Pseudo Labels + Bi-LSTM 📈](https://www.kaggle.com/code/hasanbasriakcay/tpsapr22-fe-pseudo-labels-bi-lstm) [Top 6%][83 Votes]🥇
 
