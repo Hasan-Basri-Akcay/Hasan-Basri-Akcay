@@ -44,7 +44,7 @@ Interests on AI, data science, computer vision, machine learning and related fie
 
 * 🗣️ Natural language processing
   
-  - [📚Learning-Equality, EDA+FE+Modeling📚](https://www.kaggle.com/code/hasanbasriakcay/learning-equality-eda-fe-modeling) [97 Votes]🥇
+  - [📚Learning-Equality, EDA+FE+Modeling📚](https://www.kaggle.com/code/hasanbasriakcay/learning-equality-eda-fe-modeling) [98 Votes]🥇
   - [📊FP3, EDA+FE+NLP Model Comparisons⭐️⭐️⭐](https://www.kaggle.com/code/hasanbasriakcay/fp3-eda-fe-nlp-model-comparisons) [Top 7%]🥉 [23 Votes]🥉
   - [📊 Scrabble, EDA+FE+Modeling 🔥](https://www.kaggle.com/code/hasanbasriakcay/scrabble-eda-fe-modeling) [44 Votes]🥈
 
@@ -57,6 +57,7 @@ Interests on AI, data science, computer vision, machine learning and related fie
   - [TPSNov22, Pseudo Labels+LGBM+XGB 🎭🎭🎭 [LB:0.514]](https://www.kaggle.com/code/hasanbasriakcay/tpsnov22-pseudo-labels-lgbm-xgb-lb-0-514) [Top 5%][90 Votes]🥇
   - [❤️TPSAUG22, Insightful EDA - New Lib. Featimp❤️](https://www.kaggle.com/code/hasanbasriakcay/tpsaug22-insightful-eda-new-lib-featimp) [Top 4%][64 Votes]🥇
   - [📊 TPS-Mar22, EDA + FE + Baseline 🔥](https://www.kaggle.com/code/hasanbasriakcay/tps-mar22-eda-fe-baseline) [Top 8%][74 Votes]🥇
+  - [⭐️⭐️ TPSMay22 - Insightful EDA + FE + Baseline ❤️](https://www.kaggle.com/code/hasanbasriakcay/tpsmay22-insightful-eda-fe-baseline) [Top 9%][108 Votes]🥇
 
 ---
 
