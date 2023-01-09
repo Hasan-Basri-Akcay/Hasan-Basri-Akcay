@@ -37,6 +37,7 @@ Interests on AI, data science, computer vision, machine learning and related fie
 ### Here are some of the projects I have worked with
 
 * 🖼️ Computer vision
+  ** ↗️➡️↘️ RSNA - EDA + HOG Features + Modeling 🔥🔥🔥
 
 * 🗣️ Natural language processing
 
