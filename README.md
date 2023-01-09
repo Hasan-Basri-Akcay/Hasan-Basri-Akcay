@@ -36,25 +36,13 @@ Interests on AI, data science, computer vision, machine learning and related fie
 
 ### Here are some of the projects I have worked with
 
-Coming soon...
+* 🖼️ Computer vision
 
-#### Healtcare
-*
+* 🗣️ Natural language processing
 
-#### Finance
-*
+* 📈 Time-series
 
-#### Transportation
-*
-
-#### Agriculture
-*
-
-#### Marketing
-*
-
-#### Transcription
-*
+* 💾 Other structured data projects
 
 ---
 
