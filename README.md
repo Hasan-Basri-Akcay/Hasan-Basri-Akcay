@@ -38,9 +38,12 @@ Interests on AI, data science, computer vision, machine learning and related fie
 
 * 🖼️ Computer vision
 
-  - ↗️➡️↘️ RSNA - EDA + HOG Features + Modeling 🔥🔥🔥
+  - [↗️➡️↘️ RSNA - EDA + HOG Features + Modeling 🔥🔥🔥](https://www.kaggle.com/code/hasanbasriakcay/rsna-eda-hog-features-modeling) [16 Votes]🥉
 
 * 🗣️ Natural language processing
+
+  - [📊FP3, EDA+FE+NLP Model Comparisons⭐️⭐️⭐](https://www.kaggle.com/code/hasanbasriakcay/fp3-eda-fe-nlp-model-comparisons) [Top 7%]🥉 [23 Votes]🥉
+  - [📊 Scrabble, EDA+FE+Modeling 🔥](https://www.kaggle.com/code/hasanbasriakcay/scrabble-eda-fe-modeling) [44 Votes]🥈
 
 * 📈 Time-series
 
