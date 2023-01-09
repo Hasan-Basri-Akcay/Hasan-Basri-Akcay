@@ -38,7 +38,7 @@ Interests on AI, data science, computer vision, machine learning and related fie
 
 * 🖼️ Computer vision
 
-  ** ↗️➡️↘️ RSNA - EDA + HOG Features + Modeling 🔥🔥🔥
+  - ↗️➡️↘️ RSNA - EDA + HOG Features + Modeling 🔥🔥🔥
 
 * 🗣️ Natural language processing
 
