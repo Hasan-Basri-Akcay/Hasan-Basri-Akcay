@@ -44,7 +44,7 @@ Interests on AI, data science, computer vision, machine learning and related fie
 
 * 🗣️ Natural language processing
   
-  - [📚Learning-Equality, EDA+FE+Modeling📚](https://www.kaggle.com/code/hasanbasriakcay/learning-equality-eda-fe-modeling) [98 Votes]🥇
+  - [📚Learning-Equality, EDA+FE+Modeling📚](https://www.kaggle.com/code/hasanbasriakcay/learning-equality-eda-fe-modeling) [100 Votes]🥇
   - [📊FP3, EDA+FE+NLP Model Comparisons⭐️⭐️⭐](https://www.kaggle.com/code/hasanbasriakcay/fp3-eda-fe-nlp-model-comparisons) [Top 7%]🥉 [23 Votes]🥉
   - [📊 Scrabble, EDA+FE+Modeling 🔥](https://www.kaggle.com/code/hasanbasriakcay/scrabble-eda-fe-modeling) [44 Votes]🥈
 
