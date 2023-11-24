@@ -13,7 +13,7 @@ Interests in AI, data science, data engineering, machine learning, deep learning
 
 ---
 
-📫 How to reach me
+### 📫 How to reach me
 
 <a href="https://github.com/Hasan-Basri-Akcay"><img src="https://camo.githubusercontent.com/3ef72f2e9283fcf129ba0930204a22b284c7f55aa4bbadcc35f404ad938195b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769746875622d3030303f7374796c653d666c61742d737175617265266c6f676f3d476974687562266c6f676f436f6c6f723d7768697465" alt="Github Badge" data-canonical-src="https://img.shields.io/badge/-Github-000?style=flat-square&amp;logo=Github&amp;logoColor=white" style="max-width:100%;"></a>
 <a href="https://medium.com/subscribe/@hasan.basri.akcay"><img src="https://camo.githubusercontent.com/38dbaca0ffd4a6f3fd3daf9966653a6d67eefc12690cf24f4606a34563c8f099/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d656469756d2d3132313030453f266c6f676f3d6d656469756d266c6f676f436f6c6f723d7768697465" alt="Github Badge" data-canonical-src="https://img.shields.io/badge/-Github-000?style=flat-square&amp;logo=Github&amp;logoColor=white" style="max-width:100%;"></a>
