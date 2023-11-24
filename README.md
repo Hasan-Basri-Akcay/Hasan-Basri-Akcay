@@ -4,7 +4,7 @@
 
 I have been working as a data scientist for more than five years.
 
-Interests in AI, data science, machine learning, deep learning, NLP, computer vision, data engineering, and related fields.
+Interests in AI, data science, data engineering, machine learning, deep learning, NLP, computer vision, data engineering, and related fields.
 
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/hasanbasriakcay/competition/light)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/hasanbasriakcay/dataset/light)
